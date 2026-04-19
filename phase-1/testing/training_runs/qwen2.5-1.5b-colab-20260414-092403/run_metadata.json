@@ -1,0 +1,8 @@
+{
+  "base_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "target_samples": 10000,
+  "actual_samples": 10000,
+  "train_rows": 10000,
+  "output_dir": "/content/drive/MyDrive/dl_project/qwen-claude/training_runs/qwen2.5-1.5b-colab-20260414-092403/adapter",
+  "merged_dir": "/content/drive/MyDrive/dl_project/qwen-claude/training_runs/qwen2.5-1.5b-colab-20260414-092403/merged_model"
+}
